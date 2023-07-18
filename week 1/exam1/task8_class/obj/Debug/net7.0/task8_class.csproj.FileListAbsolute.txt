@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\bin\Debug\net7.0\task8_class.exe
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\bin\Debug\net7.0\task8_class.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\bin\Debug\net7.0\task8_class.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\bin\Debug\net7.0\task8_class.dll
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\bin\Debug\net7.0\task8_class.pdb
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\obj\Debug\net7.0\task8_class.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\obj\Debug\net7.0\task8_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\obj\Debug\net7.0\task8_class.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\obj\Debug\net7.0\task8_class.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\obj\Debug\net7.0\task8_class.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\obj\Debug\net7.0\task8_class.dll
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\obj\Debug\net7.0\refint\task8_class.dll
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\obj\Debug\net7.0\task8_class.pdb
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\obj\Debug\net7.0\task8_class.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 1\exam1\task8_class\obj\Debug\net7.0\ref\task8_class.dll

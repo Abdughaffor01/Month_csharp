@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\bin\Debug\net7.0\w2_day1.exe
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\bin\Debug\net7.0\w2_day1.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\bin\Debug\net7.0\w2_day1.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\bin\Debug\net7.0\w2_day1.dll
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\bin\Debug\net7.0\w2_day1.pdb
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\obj\Debug\net7.0\w2_day1.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\obj\Debug\net7.0\w2_day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\obj\Debug\net7.0\w2_day1.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\obj\Debug\net7.0\w2_day1.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\obj\Debug\net7.0\w2_day1.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\obj\Debug\net7.0\w2_day1.dll
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\obj\Debug\net7.0\refint\w2_day1.dll
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\obj\Debug\net7.0\w2_day1.pdb
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\obj\Debug\net7.0\w2_day1.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day1\obj\Debug\net7.0\ref\w2_day1.dll

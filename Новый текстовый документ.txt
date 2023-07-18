@@ -1,0 +1,17 @@
+create project
+dotnet new console -n "name of project"
+dotnet run Запуск проекта
+
+
+
+
+
+
+
+git
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/idibek2002/a.git
+git push -u origin main

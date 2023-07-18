@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\bin\Debug\net7.0\day2_class.exe
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\bin\Debug\net7.0\day2_class.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\bin\Debug\net7.0\day2_class.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\bin\Debug\net7.0\day2_class.dll
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\bin\Debug\net7.0\day2_class.pdb
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\obj\Debug\net7.0\day2_class.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\obj\Debug\net7.0\day2_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\obj\Debug\net7.0\day2_class.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\obj\Debug\net7.0\day2_class.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\obj\Debug\net7.0\day2_class.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\obj\Debug\net7.0\day2_class.dll
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\obj\Debug\net7.0\refint\day2_class.dll
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\obj\Debug\net7.0\day2_class.pdb
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\obj\Debug\net7.0\day2_class.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 1\day2_class\obj\Debug\net7.0\ref\day2_class.dll
