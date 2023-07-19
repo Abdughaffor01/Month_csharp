@@ -21,15 +21,13 @@ public class BirdCount
    {
       _week[_week.Length - 1]++;
    }
-   public void HasDayWithoutBirds()
+   public bool HasDayWithoutBirds()
    {
-      int cnt=0;
       foreach (var i in _week)
       {
-         if (i == 0)cnt++;
+         if (i == 0) return true;
       }
-      if(cnt==0)Console.WriteLine("false");
-      else Console.WriteLine("true");
+      return false;
    }
    public void CountForFirstDays(int a){
       int b=0;

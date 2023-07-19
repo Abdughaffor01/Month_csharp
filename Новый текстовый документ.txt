@@ -2,6 +2,10 @@ create project
 dotnet new console -n "name of project"
 dotnet run Запуск проекта
 
+create Colution
+dotnet new sln -n "Name project"
+dotnet sln add name folder
+
 
 
 
