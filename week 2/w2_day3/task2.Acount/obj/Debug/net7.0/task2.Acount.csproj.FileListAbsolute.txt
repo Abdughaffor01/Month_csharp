@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\obj\Debug\net7.0\task2.Acount.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\obj\Debug\net7.0\task2.Acount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\obj\Debug\net7.0\task2.Acount.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\obj\Debug\net7.0\task2.Acount.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\obj\Debug\net7.0\task2.Acount.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\bin\Debug\net7.0\task2.Acount.exe
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\bin\Debug\net7.0\task2.Acount.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\bin\Debug\net7.0\task2.Acount.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\bin\Debug\net7.0\task2.Acount.dll
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\bin\Debug\net7.0\task2.Acount.pdb
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\obj\Debug\net7.0\task2.Acount.dll
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\obj\Debug\net7.0\refint\task2.Acount.dll
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\obj\Debug\net7.0\task2.Acount.pdb
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\obj\Debug\net7.0\task2.Acount.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 2\w2_day3\task2.Acount\obj\Debug\net7.0\ref\task2.Acount.dll
