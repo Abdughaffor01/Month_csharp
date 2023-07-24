@@ -7,8 +7,8 @@
 
 // 2
 // List<string> words = new List<string>{ "hello", "world", "!" };
-
-// Console.WriteLine("The concatenated string is: " + words.Concat<>);
+// string name = string.Join(" ", words);
+// Console.WriteLine("The concatenated string is: " + name);
 
 
 // // 3
@@ -47,3 +47,16 @@
 //    return "noalltrue";
 // }
 // Console.WriteLine("Are all the values in the list true? " + otvet);
+
+// 7
+// Random r=new Random();
+// List<int> l = new List<int>();
+
+// for (int i = 0; i < 5; i++)
+// {
+//    l.Add(r.Next());
+// }
+// foreach (var i in l)
+// {
+//    System.Console.WriteLine(i);
+// }
