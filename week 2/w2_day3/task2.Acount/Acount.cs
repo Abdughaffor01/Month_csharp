@@ -4,12 +4,12 @@ namespace task2.Acount;
 public class Acount
 {
    int number;
-   double balance;
+   decimal balance;
    public Acount(int number)
    {
       this.number = number;
    }
-   public Acount(int number, double balance)
+   public Acount(int number, decimal balance)
    {
       this.number = number;
       this.balance = balance;
@@ -18,7 +18,7 @@ public class Acount
    {
       return number;
    }
-   public double getBalance()
+   public decimal getBalance()
    {
       return balance;
    }
@@ -26,16 +26,16 @@ public class Acount
    {
       return $"Account [ number = {number} , balance = {balance} ]";
    }
-   public void credit(double amount)
+   public void credit(decimal amount)
    {
       balance += amount;
    }
-   public void debit(double amount)
+   public void debit(decimal amount)
    {
       if (balance >= amount) balance -= amount;
       else Console.WriteLine("amount exeeded");
    }
-   public void transferTo(double amount,Acount sum )
+   public void transferTo(decimal amount,Acount sum )
    {
       if (balance >= amount)
       {
