@@ -26,27 +26,16 @@
 
 // // 4
 // List<double> numbers = new List<double>{ 3.5, 2.7, 6.9, 1.2 };
-// double average=0;
-// foreach (var i in numbers) average+=i;
-// Console.WriteLine("The average value of all the elements in the list is: " + average);
+// double averege=numbers.Average();
+// Console.WriteLine("The average value of all the elements in the list is: " + averege);
 
 // // 5
 // List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
-// FindAll(numbers);
-// void FindAll(List<int> l){
-//    foreach (var i in l)Console.WriteLine(i);
-// }
 
 // // 6
 // List<bool> values = new List<bool>{ true, false, true };
-// string otvet=All(values);
-// string All(List<bool> l){
-//    int cnt=0;
-//    foreach (var i in l) if(i==true)cnt++;
-//    if(cnt==l.Count()) return "alltrue"; 
-//    return "noalltrue";
-// }
-// Console.WriteLine("Are all the values in the list true? " + otvet);
+// bool alltrue=values.All(x => x== true);
+// Console.WriteLine("Are all the values in the list true? " + alltrue);
 
 // 7
 // Random r=new Random();

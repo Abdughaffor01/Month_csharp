@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
