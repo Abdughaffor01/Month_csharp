@@ -4,11 +4,7 @@ namespace Infrastructure.Services;
 
 public class EmployeeService
 {
-    List<Employee> employees;
-   public EmployeeService()
-   {
-      employees=new List<Employee>();
-   }
+    List<Employee> employees=new List<Employee>();
    public List<Employee> GetEmployees(){
       return employees;
    }

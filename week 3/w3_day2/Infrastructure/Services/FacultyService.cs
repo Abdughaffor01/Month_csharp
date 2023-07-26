@@ -3,15 +3,15 @@ namespace Infrastructure.Services;
 
 public class DepartmentService
 {
-  List<Department> departments;
+  List<Faculty> departments;
    public DepartmentService()
    {
-      departments=new List<Department>();
+      departments=new List<Faculty>();
    }
-   public List<Department> GetEmployees(){
+   public List<Faculty> GetEmployees(){
       return departments;
    }
-   public void AddEmployees(Department department){
+   public void AddEmployees(Faculty department){
       departments.Add(department);
    }
    public int CountEmployees(){
