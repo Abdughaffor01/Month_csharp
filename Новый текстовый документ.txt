@@ -6,6 +6,12 @@ create Colution
 dotnet new sln -n "Name project"
 dotnet sln add name folder
 
+createCreating a classlib : 
+dotnet new classlib -n "nomsh"
+
+Adding reference : 
+dotnet add MainApp reference Domain
+
 
 
 
