@@ -2,8 +2,8 @@ namespace task3;
 
 public class Calculator
 {
-   int firstNumber { get; set; }
-   int secondNumber { get; set; }
+   int firstNumber;
+   int secondNumber;
    public Calculator(int firstnumber,int secondnumber)
    {
       firstNumber=firstnumber;
