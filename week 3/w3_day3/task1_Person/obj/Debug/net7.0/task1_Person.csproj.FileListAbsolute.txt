@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\bin\Debug\net7.0\task1_Person.exe
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\bin\Debug\net7.0\task1_Person.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\bin\Debug\net7.0\task1_Person.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\bin\Debug\net7.0\task1_Person.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\bin\Debug\net7.0\task1_Person.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\obj\Debug\net7.0\task1_Person.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\obj\Debug\net7.0\task1_Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\obj\Debug\net7.0\task1_Person.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\obj\Debug\net7.0\task1_Person.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\obj\Debug\net7.0\task1_Person.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\obj\Debug\net7.0\task1_Person.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\obj\Debug\net7.0\refint\task1_Person.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\obj\Debug\net7.0\task1_Person.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\obj\Debug\net7.0\task1_Person.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Person\obj\Debug\net7.0\ref\task1_Person.dll

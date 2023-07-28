@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\bin\Debug\net7.0\task1_Shape.exe
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\bin\Debug\net7.0\task1_Shape.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\bin\Debug\net7.0\task1_Shape.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\bin\Debug\net7.0\task1_Shape.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\bin\Debug\net7.0\task1_Shape.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\obj\Debug\net7.0\task1_Shape.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\obj\Debug\net7.0\task1_Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\obj\Debug\net7.0\task1_Shape.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\obj\Debug\net7.0\task1_Shape.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\obj\Debug\net7.0\task1_Shape.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\obj\Debug\net7.0\task1_Shape.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\obj\Debug\net7.0\refint\task1_Shape.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\obj\Debug\net7.0\task1_Shape.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\obj\Debug\net7.0\task1_Shape.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day3\task1_Shape\obj\Debug\net7.0\ref\task1_Shape.dll
