@@ -1,13 +1,8 @@
-public class Shape
+public class Shape:Location
 {
-   double x;
-   double y;
-   public Shape(double x, double y)
-   {
-      this.x = x;
-      this.y = y;
-   }
-   public string ToString() => $"x = {x} : y = {y}";
-   public double Area() => x * y;
-   public double Perimeter() => 2 * (x + y);
+   public Location c = new Location();
+
+   public override string ToString() => $"x = {c.x} : y = {c.y}";
+   public virtual double Area() => c.x * c.y;
+   public virtual double Perimeter() => 2 * (c.x + c.y);
 }

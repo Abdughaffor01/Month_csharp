@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\bin\Debug\net7.0\Technology.exe
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\bin\Debug\net7.0\Technology.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\bin\Debug\net7.0\Technology.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\bin\Debug\net7.0\Technology.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\bin\Debug\net7.0\Technology.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\obj\Debug\net7.0\Technology.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\obj\Debug\net7.0\Technology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\obj\Debug\net7.0\Technology.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\obj\Debug\net7.0\Technology.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\obj\Debug\net7.0\Technology.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\obj\Debug\net7.0\Technology.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\obj\Debug\net7.0\refint\Technology.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\obj\Debug\net7.0\Technology.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\obj\Debug\net7.0\Technology.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_day4\Technology\obj\Debug\net7.0\ref\Technology.dll
