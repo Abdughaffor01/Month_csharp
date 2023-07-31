@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\bin\Debug\net7.0\Circle_Cylinder.exe
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\bin\Debug\net7.0\Circle_Cylinder.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\bin\Debug\net7.0\Circle_Cylinder.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\bin\Debug\net7.0\Circle_Cylinder.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\bin\Debug\net7.0\Circle_Cylinder.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\obj\Debug\net7.0\Circle_Cylinder.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\obj\Debug\net7.0\Circle_Cylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\obj\Debug\net7.0\Circle_Cylinder.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\obj\Debug\net7.0\Circle_Cylinder.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\obj\Debug\net7.0\Circle_Cylinder.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\obj\Debug\net7.0\Circle_Cylinder.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\obj\Debug\net7.0\refint\Circle_Cylinder.dll
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\obj\Debug\net7.0\Circle_Cylinder.pdb
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\obj\Debug\net7.0\Circle_Cylinder.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 3\w3_exam\Circle_Cylinder\obj\Debug\net7.0\ref\Circle_Cylinder.dll
