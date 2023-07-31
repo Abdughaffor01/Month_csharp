@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Author", "Author\Author.csproj", "{EAA4B047-C345-43B4-A25E-CEEB615DD31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car", "Car\Car.csproj", "{D6E5B970-E982-4B30-8BC7-63384367DFAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "Paint\Paint.csproj", "{75BD71D4-2449-4CDF-B288-FD4CC8DC61C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA4B047-C345-43B4-A25E-CEEB615DD31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA4B047-C345-43B4-A25E-CEEB615DD31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA4B047-C345-43B4-A25E-CEEB615DD31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA4B047-C345-43B4-A25E-CEEB615DD31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E5B970-E982-4B30-8BC7-63384367DFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E5B970-E982-4B30-8BC7-63384367DFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E5B970-E982-4B30-8BC7-63384367DFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E5B970-E982-4B30-8BC7-63384367DFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BD71D4-2449-4CDF-B288-FD4CC8DC61C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BD71D4-2449-4CDF-B288-FD4CC8DC61C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BD71D4-2449-4CDF-B288-FD4CC8DC61C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BD71D4-2449-4CDF-B288-FD4CC8DC61C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
