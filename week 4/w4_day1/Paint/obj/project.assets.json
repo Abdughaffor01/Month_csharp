@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day6\\Paint\\Paint.csproj",
+      "projectUniqueName": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day1\\Paint\\Paint.csproj",
       "projectName": "Paint",
-      "projectPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day6\\Paint\\Paint.csproj",
+      "projectPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day1\\Paint\\Paint.csproj",
       "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day6\\Paint\\obj\\",
+      "outputPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day1\\Paint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config"

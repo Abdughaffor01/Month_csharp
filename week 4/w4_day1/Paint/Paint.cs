@@ -2,7 +2,7 @@ public  class Paint
 {
    int x;
    int y;
-   public Paint() { }
+   public  Paint() {}
    public Paint(int x, int y)
    {
       this.x = x;
@@ -23,17 +23,13 @@ public  class Paint
       this.x = x;
       this.y = y;
    }
-   public string Distance(int x, int y)
+   public double Distance(int x, int y)
    {
-      this.x -= x;
-      this.y -= y;
-      return $"({x},{y})";
+     return Math.Sqrt(Math.Pow((x-this.x),2)+Math.Pow(y-this.y,2));
    }
-   public string Distance(Paint another)
+   public double Distance(Paint another)
    {
-      double xx = this.x - another.x;
-      double yy = this.y - another.y;
-      return $"({xx},{yy})";
+      return Math.Sqrt(Math.Pow((another.x-this.x),2)+Math.Pow(another.y-this.y,2));
    }
    public string Distance()
    {

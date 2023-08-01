@@ -1,7 +1,7 @@
 public class Circle : Paint
 {
    Paint center;
-   const double pi=3.14;
+   const double pi = 3.14;
    double radius;
 
    public Circle(int xcenter, int ycenter, double radius)
@@ -10,9 +10,12 @@ public class Circle : Paint
       center.SetY(ycenter);
       this.radius = radius;
    }
-   // public Circle(Paint center,double radius){
-   //    this.center
-   // }
+   public Circle(Paint center, double radius)
+   {
+      this.center.SetX(center.GetX());
+      this.center.SetY(center.GetY());
+      this.radius=radius;
+   }
    public double GetRadius() => radius;
    public double SetRadius(double radius) => this.radius = radius;
 
@@ -22,9 +25,10 @@ public class Circle : Paint
    public void SetCenterX(int x) => center.SetX(x);
    public int GetCenterY() => center.GetY();
    public void SetCenterY(int y) => center.SetY(y);
-   
+
    public int[] GetCenterXY() => center.GetXY();
-   public void SetCenterXY(int x,int y) {
+   public void SetCenterXY(int x, int y)
+   {
       center.SetX(x);
       center.SetY(y);
    }
@@ -34,6 +38,6 @@ public class Circle : Paint
    }
    public double GetArea()
    {
-      return pi*radius*radius;
+      return pi * radius * radius;
    }
 }
