@@ -2,7 +2,7 @@ public  class Paint
 {
    int x;
    int y;
-   public  Paint() {}
+   public Paint() {}
    public Paint(int x, int y)
    {
       this.x = x;

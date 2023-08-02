@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1_animal", "task1_animal\task1_animal.csproj", "{9BAF939B-4596-48AF-97A4-E82938B0CE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2_animal", "task2_animal\task2_animal.csproj", "{07644EF4-F454-433E-A113-8411DBE27299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAF939B-4596-48AF-97A4-E82938B0CE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAF939B-4596-48AF-97A4-E82938B0CE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAF939B-4596-48AF-97A4-E82938B0CE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAF939B-4596-48AF-97A4-E82938B0CE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07644EF4-F454-433E-A113-8411DBE27299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07644EF4-F454-433E-A113-8411DBE27299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07644EF4-F454-433E-A113-8411DBE27299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07644EF4-F454-433E-A113-8411DBE27299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

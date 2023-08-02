@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\obj\Debug\net7.0\task1_animal.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\obj\Debug\net7.0\task1_animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\obj\Debug\net7.0\task1_animal.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\obj\Debug\net7.0\task1_animal.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\obj\Debug\net7.0\task1_animal.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\bin\Debug\net7.0\task1_animal.exe
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\bin\Debug\net7.0\task1_animal.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\bin\Debug\net7.0\task1_animal.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\bin\Debug\net7.0\task1_animal.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\bin\Debug\net7.0\task1_animal.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\obj\Debug\net7.0\task1_animal.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\obj\Debug\net7.0\refint\task1_animal.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\obj\Debug\net7.0\task1_animal.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\obj\Debug\net7.0\task1_animal.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day2\task1_animal\obj\Debug\net7.0\ref\task1_animal.dll
