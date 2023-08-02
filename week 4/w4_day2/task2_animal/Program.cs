@@ -4,6 +4,7 @@ using task2_animal;
 
 Shake shake=new Shake("rex","red","ala");
 Dog dog=new Dog("Barsik");
+shake.SetName("shake");
 
 Console.WriteLine(shake.GetLegs());
 Console.WriteLine(shake.IsScary());
