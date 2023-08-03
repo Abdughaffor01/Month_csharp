@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\bin\Debug\net7.0\Circle.exe
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\bin\Debug\net7.0\Circle.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\bin\Debug\net7.0\Circle.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\bin\Debug\net7.0\Circle.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\bin\Debug\net7.0\Circle.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\obj\Debug\net7.0\Circle.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\obj\Debug\net7.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\obj\Debug\net7.0\Circle.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\obj\Debug\net7.0\Circle.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\obj\Debug\net7.0\Circle.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\obj\Debug\net7.0\Circle.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\obj\Debug\net7.0\refint\Circle.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\obj\Debug\net7.0\Circle.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\obj\Debug\net7.0\Circle.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\Circle\obj\Debug\net7.0\ref\Circle.dll

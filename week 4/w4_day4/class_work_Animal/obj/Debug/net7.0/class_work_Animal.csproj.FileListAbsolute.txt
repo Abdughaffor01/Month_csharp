@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\bin\Debug\net7.0\class_work_Animal.exe
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\bin\Debug\net7.0\class_work_Animal.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\bin\Debug\net7.0\class_work_Animal.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\bin\Debug\net7.0\class_work_Animal.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\bin\Debug\net7.0\class_work_Animal.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\obj\Debug\net7.0\class_work_Animal.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\obj\Debug\net7.0\class_work_Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\obj\Debug\net7.0\class_work_Animal.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\obj\Debug\net7.0\class_work_Animal.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\obj\Debug\net7.0\class_work_Animal.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\obj\Debug\net7.0\class_work_Animal.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\obj\Debug\net7.0\refint\class_work_Animal.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\obj\Debug\net7.0\class_work_Animal.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\obj\Debug\net7.0\class_work_Animal.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day4\class_work_Animal\obj\Debug\net7.0\ref\class_work_Animal.dll

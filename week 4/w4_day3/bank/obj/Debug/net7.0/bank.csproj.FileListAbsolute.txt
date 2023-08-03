@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\bin\Debug\net7.0\bank.exe
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\bin\Debug\net7.0\bank.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\bin\Debug\net7.0\bank.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\bin\Debug\net7.0\bank.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\bin\Debug\net7.0\bank.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\obj\Debug\net7.0\bank.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\obj\Debug\net7.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\obj\Debug\net7.0\bank.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\obj\Debug\net7.0\bank.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\obj\Debug\net7.0\bank.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\obj\Debug\net7.0\bank.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\obj\Debug\net7.0\refint\bank.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\obj\Debug\net7.0\bank.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\obj\Debug\net7.0\bank.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day3\bank\obj\Debug\net7.0\ref\bank.dll
