@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zero\\Desktop\\Курси С#\\test\\test.csproj": {}
+    "c:\\Users\\Zero\\Desktop\\Курси С#\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zero\\Desktop\\Курси С#\\test\\test.csproj": {
+    "c:\\Users\\Zero\\Desktop\\Курси С#\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zero\\Desktop\\Курси С#\\test\\test.csproj",
+        "projectUniqueName": "c:\\Users\\Zero\\Desktop\\Курси С#\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\test\\test.csproj",
+        "projectPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\test\\test.csproj",
         "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\test\\obj\\",
+        "outputPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config"

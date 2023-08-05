@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoBook", "PhotoBook\PhotoBook.csproj", "{EBD23565-C848-4CC9-8A4C-689D5903EB42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoBookk", "PhotoBookk\PhotoBookk.csproj", "{79AA390B-B5E7-4A13-8BFE-E6406B94D738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal\Animal.csproj", "{091A73E7-8DEF-41E0-9C2B-EBC67666D7F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vihiclee", "Vihiclee\Vihiclee.csproj", "{EC43EE94-BCCB-4CE1-9A65-03842A9C8E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD23565-C848-4CC9-8A4C-689D5903EB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD23565-C848-4CC9-8A4C-689D5903EB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD23565-C848-4CC9-8A4C-689D5903EB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD23565-C848-4CC9-8A4C-689D5903EB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AA390B-B5E7-4A13-8BFE-E6406B94D738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AA390B-B5E7-4A13-8BFE-E6406B94D738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AA390B-B5E7-4A13-8BFE-E6406B94D738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AA390B-B5E7-4A13-8BFE-E6406B94D738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091A73E7-8DEF-41E0-9C2B-EBC67666D7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091A73E7-8DEF-41E0-9C2B-EBC67666D7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091A73E7-8DEF-41E0-9C2B-EBC67666D7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091A73E7-8DEF-41E0-9C2B-EBC67666D7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC43EE94-BCCB-4CE1-9A65-03842A9C8E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC43EE94-BCCB-4CE1-9A65-03842A9C8E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC43EE94-BCCB-4CE1-9A65-03842A9C8E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC43EE94-BCCB-4CE1-9A65-03842A9C8E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

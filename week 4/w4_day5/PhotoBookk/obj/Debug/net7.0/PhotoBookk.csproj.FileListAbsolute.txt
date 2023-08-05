@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\bin\Debug\net7.0\PhotoBookk.exe
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\bin\Debug\net7.0\PhotoBookk.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\bin\Debug\net7.0\PhotoBookk.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\bin\Debug\net7.0\PhotoBookk.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\bin\Debug\net7.0\PhotoBookk.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\obj\Debug\net7.0\PhotoBookk.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\obj\Debug\net7.0\PhotoBookk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\obj\Debug\net7.0\PhotoBookk.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\obj\Debug\net7.0\PhotoBookk.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\obj\Debug\net7.0\PhotoBookk.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\obj\Debug\net7.0\PhotoBookk.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\obj\Debug\net7.0\refint\PhotoBookk.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\obj\Debug\net7.0\PhotoBookk.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\obj\Debug\net7.0\PhotoBookk.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\PhotoBookk\obj\Debug\net7.0\ref\PhotoBookk.dll

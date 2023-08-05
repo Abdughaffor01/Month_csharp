@@ -1,6 +1,6 @@
 namespace Circle;
 
-public class Circle : GeometricObject
+public class Circle :GeometricObject
 {
    const double pi = 3.14;
    protected double radius;

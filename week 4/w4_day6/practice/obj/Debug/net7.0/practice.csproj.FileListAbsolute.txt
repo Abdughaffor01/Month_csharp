@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\bin\Debug\net7.0\practice.exe
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\bin\Debug\net7.0\practice.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\bin\Debug\net7.0\practice.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\bin\Debug\net7.0\practice.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\bin\Debug\net7.0\practice.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\obj\Debug\net7.0\practice.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\obj\Debug\net7.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\obj\Debug\net7.0\practice.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\obj\Debug\net7.0\practice.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\obj\Debug\net7.0\practice.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\obj\Debug\net7.0\practice.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\obj\Debug\net7.0\refint\practice.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\obj\Debug\net7.0\practice.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\obj\Debug\net7.0\practice.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day6\practice\obj\Debug\net7.0\ref\practice.dll

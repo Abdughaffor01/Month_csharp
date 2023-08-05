@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\obj\Debug\net7.0\Vihiclee.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\obj\Debug\net7.0\Vihiclee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\obj\Debug\net7.0\Vihiclee.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\obj\Debug\net7.0\Vihiclee.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\obj\Debug\net7.0\Vihiclee.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\bin\Debug\net7.0\Vihiclee.exe
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\bin\Debug\net7.0\Vihiclee.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\bin\Debug\net7.0\Vihiclee.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\bin\Debug\net7.0\Vihiclee.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\bin\Debug\net7.0\Vihiclee.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\obj\Debug\net7.0\Vihiclee.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\obj\Debug\net7.0\refint\Vihiclee.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\obj\Debug\net7.0\Vihiclee.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\obj\Debug\net7.0\Vihiclee.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_day5\Vihiclee\obj\Debug\net7.0\ref\Vihiclee.dll
