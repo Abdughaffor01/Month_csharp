@@ -54,39 +54,41 @@ while (true)
                Console.WriteLine(laptop.Storage + "Gb");
             }
          }
-         // Console.WriteLine("Foto");
-         // while (true)
-         // {
-         //    string foto = Console.ReadLine();
-         //    if(foto=="yes"){
-         //       laptop.
-         //    }
-
-         // }
-
       }
    }
    else if (a == 2)
    {
-      // Console.WriteLine("Add smartphone");
-      // while (true)
-      // {
-      //    Smatphone sphone = new Smatphone();
-      //    Console.Write("Ram : ");
-      //    sphone.Ram = Convert.ToInt32(Console.ReadLine());
-      //    Console.Write("Storage : ");
-      //    sphone.Storage = Convert.ToInt32(Console.ReadLine());
-      //    Console.Write("Keyboard : ");
-      //    sphone.Keyboard = Console.ReadLine();
+      Console.WriteLine("Add smartphone");
+      while (true)
+      {
+         Smatphone sphone = new Smatphone();
+         Console.Write("Ram : ");
+         sphone.Ram = Convert.ToInt32(Console.ReadLine());
+         Console.Write("Storage : ");
+         sphone.Storage = Convert.ToInt32(Console.ReadLine());
+         Console.Write("Keyboard : ");
+         sphone.Keyboard = Console.ReadLine();
 
-      //    Console.WriteLine("Эсли хотите выйти пишите end");
-      //    string name=Console.ReadLine();
-      //    if (name == "end")
-      //    {
-      //       Console.WriteLine();
-      //       break;
-      //    }
-      // }
+         Console.WriteLine("Хотите ещё добавыт yes/no fotka пишите foto");
+
+         string name = Console.ReadLine();
+         if (name == "foto")
+         {
+            while (true)
+            {
+               sphone.TakeSelf();
+               Console.WriteLine("Хотиту ешё фото yes/no");
+               string self=Console.ReadLine();
+               Console.WriteLine();
+               if(self=="no")break;
+            }
+         }
+         else if (name == "no")
+         {
+            Console.WriteLine();
+            break;
+         }
+      }
    }
    else if (a == 3)
    {
