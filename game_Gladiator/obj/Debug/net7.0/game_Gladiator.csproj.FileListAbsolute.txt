@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\bin\Debug\net7.0\game_Gladiator.exe
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\bin\Debug\net7.0\game_Gladiator.deps.json
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\bin\Debug\net7.0\game_Gladiator.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\bin\Debug\net7.0\game_Gladiator.dll
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\bin\Debug\net7.0\game_Gladiator.pdb
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\obj\Debug\net7.0\game_Gladiator.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\obj\Debug\net7.0\game_Gladiator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\obj\Debug\net7.0\game_Gladiator.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\obj\Debug\net7.0\game_Gladiator.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\obj\Debug\net7.0\game_Gladiator.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\obj\Debug\net7.0\game_Gladiator.dll
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\obj\Debug\net7.0\refint\game_Gladiator.dll
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\obj\Debug\net7.0\game_Gladiator.pdb
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\obj\Debug\net7.0\game_Gladiator.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\game_Gladiator\obj\Debug\net7.0\ref\game_Gladiator.dll

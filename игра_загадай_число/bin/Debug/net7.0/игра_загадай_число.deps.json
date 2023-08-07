@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "игра_загадай_число/1.0.0": {
+        "runtime": {
+          "игра_загадай_число.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "игра_загадай_число/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day6\\practice\\practice.csproj": {}
+    "C:\\Users\\Zero\\Desktop\\Курси С#\\игра_загадай_число\\игра_загадай_число.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day6\\practice\\practice.csproj": {
+    "C:\\Users\\Zero\\Desktop\\Курси С#\\игра_загадай_число\\игра_загадай_число.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day6\\practice\\practice.csproj",
-        "projectName": "practice",
-        "projectPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day6\\practice\\practice.csproj",
+        "projectUniqueName": "C:\\Users\\Zero\\Desktop\\Курси С#\\игра_загадай_число\\игра_загадай_число.csproj",
+        "projectName": "игра_загадай_число",
+        "projectPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\игра_загадай_число\\игра_загадай_число.csproj",
         "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day6\\practice\\obj\\",
+        "outputPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\игра_загадай_число\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config"

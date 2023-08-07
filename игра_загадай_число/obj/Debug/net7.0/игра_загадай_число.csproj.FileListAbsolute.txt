@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\bin\Debug\net7.0\игра_загадай_число.exe
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\bin\Debug\net7.0\игра_загадай_число.deps.json
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\bin\Debug\net7.0\игра_загадай_число.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\bin\Debug\net7.0\игра_загадай_число.dll
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\bin\Debug\net7.0\игра_загадай_число.pdb
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\obj\Debug\net7.0\игра_загадай_число.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\obj\Debug\net7.0\игра_загадай_число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\obj\Debug\net7.0\игра_загадай_число.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\obj\Debug\net7.0\игра_загадай_число.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\obj\Debug\net7.0\игра_загадай_число.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\obj\Debug\net7.0\игра_загадай_число.dll
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\obj\Debug\net7.0\refint\игра_загадай_число.dll
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\obj\Debug\net7.0\игра_загадай_число.pdb
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\obj\Debug\net7.0\игра_загадай_число.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\игра_загадай_число\obj\Debug\net7.0\ref\игра_загадай_число.dll

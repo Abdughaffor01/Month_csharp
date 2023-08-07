@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day6\\practice\\practice.csproj": {}
+    "C:\\Users\\Zero\\Desktop\\Курси С#\\week 5\\w5_day1\\Technology\\Technology.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day6\\practice\\practice.csproj": {
+    "C:\\Users\\Zero\\Desktop\\Курси С#\\week 5\\w5_day1\\Technology\\Technology.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day6\\practice\\practice.csproj",
-        "projectName": "practice",
-        "projectPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day6\\practice\\practice.csproj",
+        "projectUniqueName": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 5\\w5_day1\\Technology\\Technology.csproj",
+        "projectName": "Technology",
+        "projectPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 5\\w5_day1\\Technology\\Technology.csproj",
         "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 4\\w4_day6\\practice\\obj\\",
+        "outputPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 5\\w5_day1\\Technology\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\games2D\bin\Debug\net7.0\games2D.exe
+C:\Users\Zero\Desktop\Курси С#\games2D\bin\Debug\net7.0\games2D.deps.json
+C:\Users\Zero\Desktop\Курси С#\games2D\bin\Debug\net7.0\games2D.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\games2D\bin\Debug\net7.0\games2D.dll
+C:\Users\Zero\Desktop\Курси С#\games2D\bin\Debug\net7.0\games2D.pdb
+C:\Users\Zero\Desktop\Курси С#\games2D\obj\Debug\net7.0\games2D.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\games2D\obj\Debug\net7.0\games2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\games2D\obj\Debug\net7.0\games2D.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\games2D\obj\Debug\net7.0\games2D.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\games2D\obj\Debug\net7.0\games2D.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\games2D\obj\Debug\net7.0\games2D.dll
+C:\Users\Zero\Desktop\Курси С#\games2D\obj\Debug\net7.0\refint\games2D.dll
+C:\Users\Zero\Desktop\Курси С#\games2D\obj\Debug\net7.0\games2D.pdb
+C:\Users\Zero\Desktop\Курси С#\games2D\obj\Debug\net7.0\games2D.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\games2D\obj\Debug\net7.0\ref\games2D.dll
