@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1_circle", "task1_circle\task1_circle.csproj", "{4D766720-7765-478C-AEA7-12512132B116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2_Employee", "task2_Employee\task2_Employee.csproj", "{E5C2EF17-C42A-4C86-B487-B9B90D0F1E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task3_Shape", "task3_Shape\task3_Shape.csproj", "{4CFCDB53-EBF0-448F-90C5-9F012BE90BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D766720-7765-478C-AEA7-12512132B116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D766720-7765-478C-AEA7-12512132B116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D766720-7765-478C-AEA7-12512132B116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D766720-7765-478C-AEA7-12512132B116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C2EF17-C42A-4C86-B487-B9B90D0F1E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C2EF17-C42A-4C86-B487-B9B90D0F1E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C2EF17-C42A-4C86-B487-B9B90D0F1E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C2EF17-C42A-4C86-B487-B9B90D0F1E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CFCDB53-EBF0-448F-90C5-9F012BE90BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CFCDB53-EBF0-448F-90C5-9F012BE90BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CFCDB53-EBF0-448F-90C5-9F012BE90BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CFCDB53-EBF0-448F-90C5-9F012BE90BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

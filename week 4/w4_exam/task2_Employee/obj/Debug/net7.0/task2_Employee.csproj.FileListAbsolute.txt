@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\bin\Debug\net7.0\task2_Employee.exe
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\bin\Debug\net7.0\task2_Employee.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\bin\Debug\net7.0\task2_Employee.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\bin\Debug\net7.0\task2_Employee.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\bin\Debug\net7.0\task2_Employee.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\obj\Debug\net7.0\task2_Employee.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\obj\Debug\net7.0\task2_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\obj\Debug\net7.0\task2_Employee.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\obj\Debug\net7.0\task2_Employee.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\obj\Debug\net7.0\task2_Employee.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\obj\Debug\net7.0\task2_Employee.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\obj\Debug\net7.0\refint\task2_Employee.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\obj\Debug\net7.0\task2_Employee.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\obj\Debug\net7.0\task2_Employee.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task2_Employee\obj\Debug\net7.0\ref\task2_Employee.dll

@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\bin\Debug\net7.0\task1_circle.exe
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\bin\Debug\net7.0\task1_circle.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\bin\Debug\net7.0\task1_circle.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\bin\Debug\net7.0\task1_circle.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\bin\Debug\net7.0\task1_circle.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\obj\Debug\net7.0\task1_circle.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\obj\Debug\net7.0\task1_circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\obj\Debug\net7.0\task1_circle.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\obj\Debug\net7.0\task1_circle.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\obj\Debug\net7.0\task1_circle.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\obj\Debug\net7.0\task1_circle.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\obj\Debug\net7.0\refint\task1_circle.dll
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\obj\Debug\net7.0\task1_circle.pdb
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\obj\Debug\net7.0\task1_circle.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 4\w4_exam\task1_circle\obj\Debug\net7.0\ref\task1_circle.dll
