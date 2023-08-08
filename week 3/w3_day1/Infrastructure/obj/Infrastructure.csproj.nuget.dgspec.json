@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Infrastructure\\Infrastructure.csproj": {}
+    "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\Domain.csproj": {
+    "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\Domain.csproj"
+              "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\Zero\\Desktop\\Курси С#\\week 3\\w3_day1\\Domain\\Domain.csproj"
               }
             }
           }

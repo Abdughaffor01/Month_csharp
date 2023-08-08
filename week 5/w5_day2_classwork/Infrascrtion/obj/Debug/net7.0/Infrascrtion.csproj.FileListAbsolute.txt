@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\bin\Debug\net7.0\Infrascrtion.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\bin\Debug\net7.0\Infrascrtion.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\bin\Debug\net7.0\Infrascrtion.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\bin\Debug\net7.0\Domein.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\bin\Debug\net7.0\Domein.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\obj\Debug\net7.0\Infrascrtion.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\obj\Debug\net7.0\Infrascrtion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\obj\Debug\net7.0\Infrascrtion.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\obj\Debug\net7.0\Infrascrtion.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\obj\Debug\net7.0\Infrascrtion.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\obj\Debug\net7.0\Infrascrtion.csproj.CopyComplete
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\obj\Debug\net7.0\Infrascrtion.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\obj\Debug\net7.0\refint\Infrascrtion.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\obj\Debug\net7.0\Infrascrtion.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Infrascrtion\obj\Debug\net7.0\ref\Infrascrtion.dll

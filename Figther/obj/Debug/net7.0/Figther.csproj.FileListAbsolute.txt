@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\Figther\bin\Debug\net7.0\Figther.exe
+C:\Users\Zero\Desktop\Курси С#\Figther\bin\Debug\net7.0\Figther.deps.json
+C:\Users\Zero\Desktop\Курси С#\Figther\bin\Debug\net7.0\Figther.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\Figther\bin\Debug\net7.0\Figther.dll
+C:\Users\Zero\Desktop\Курси С#\Figther\bin\Debug\net7.0\Figther.pdb
+C:\Users\Zero\Desktop\Курси С#\Figther\obj\Debug\net7.0\Figther.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\Figther\obj\Debug\net7.0\Figther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\Figther\obj\Debug\net7.0\Figther.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\Figther\obj\Debug\net7.0\Figther.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\Figther\obj\Debug\net7.0\Figther.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\Figther\obj\Debug\net7.0\Figther.dll
+C:\Users\Zero\Desktop\Курси С#\Figther\obj\Debug\net7.0\refint\Figther.dll
+C:\Users\Zero\Desktop\Курси С#\Figther\obj\Debug\net7.0\Figther.pdb
+C:\Users\Zero\Desktop\Курси С#\Figther\obj\Debug\net7.0\Figther.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\Figther\obj\Debug\net7.0\ref\Figther.dll

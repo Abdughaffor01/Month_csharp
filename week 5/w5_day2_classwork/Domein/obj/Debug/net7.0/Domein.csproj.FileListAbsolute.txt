@@ -1,0 +1,12 @@
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\bin\Debug\net7.0\Domein.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\bin\Debug\net7.0\Domein.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\bin\Debug\net7.0\Domein.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\obj\Debug\net7.0\Domein.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\obj\Debug\net7.0\Domein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\obj\Debug\net7.0\Domein.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\obj\Debug\net7.0\Domein.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\obj\Debug\net7.0\Domein.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\obj\Debug\net7.0\Domein.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\obj\Debug\net7.0\refint\Domein.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\obj\Debug\net7.0\Domein.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day2\Domein\obj\Debug\net7.0\ref\Domein.dll

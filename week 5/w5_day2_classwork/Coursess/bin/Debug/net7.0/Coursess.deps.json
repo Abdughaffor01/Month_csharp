@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Coursess/1.0.0": {
+        "dependencies": {
+          "Domein": "1.0.0",
+          "Infrascrtion": "1.0.0"
+        },
+        "runtime": {
+          "Coursess.dll": {}
+        }
+      },
+      "Domein/1.0.0": {
+        "runtime": {
+          "Domein.dll": {}
+        }
+      },
+      "Infrascrtion/1.0.0": {
+        "dependencies": {
+          "Domein": "1.0.0"
+        },
+        "runtime": {
+          "Infrascrtion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coursess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domein/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrascrtion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

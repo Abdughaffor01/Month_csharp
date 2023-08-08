@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Infrascrtion/1.0.0": {
+        "dependencies": {
+          "Domein": "1.0.0"
+        },
+        "runtime": {
+          "Infrascrtion.dll": {}
+        }
+      },
+      "Domein/1.0.0": {
+        "runtime": {
+          "Domein.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infrascrtion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domein/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
