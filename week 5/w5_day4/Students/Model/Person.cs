@@ -1,15 +1,12 @@
 namespace Students.Model;
 public abstract class Person
 {
-   protected string nic;
    protected string firstName;
    protected string lastName;
    protected string city;
    protected string street;
    protected string email;
    protected string mobile;
-   public string getNic()=>nic;
-   public void setNic(string nic)=>this.nic = nic;
    public string getFirstName()=>firstName;
    public void setFirstName(string firstName)=>this.firstName = firstName;
    public string getLastName()=>lastName;
