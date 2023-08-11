@@ -1,0 +1,15 @@
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\bin\Debug\net7.0\Students.exe
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\bin\Debug\net7.0\Students.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\bin\Debug\net7.0\Students.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\bin\Debug\net7.0\Students.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\bin\Debug\net7.0\Students.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\obj\Debug\net7.0\Students.csproj.AssemblyReference.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\obj\Debug\net7.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\obj\Debug\net7.0\Students.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\obj\Debug\net7.0\Students.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\obj\Debug\net7.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\obj\Debug\net7.0\Students.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\obj\Debug\net7.0\refint\Students.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\obj\Debug\net7.0\Students.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\obj\Debug\net7.0\Students.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day4\Students\obj\Debug\net7.0\ref\Students.dll
