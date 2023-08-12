@@ -83,6 +83,7 @@ while (true) {
                 Console.WriteLine();
             }
             else if (pres == 6) break;
+            else Console.WriteLine("Неверный команда");
         }
     }
     else if (comand.ToLower().Trim() == "group")
@@ -158,6 +159,7 @@ while (true) {
                 Console.WriteLine();
             }
             else if (pres == 6) break;
+            else Console.WriteLine("Неверный команда");
         }
     }
     else if (comand.ToLower().Trim() == "educationcenter")
@@ -232,6 +234,7 @@ while (true) {
                 Console.WriteLine();
             }
             else if (pres == 6) break;
+            else Console.WriteLine("Неверный команда");
         }
     }
     else if (comand.ToLower().Trim() == "department")
@@ -309,6 +312,7 @@ while (true) {
                 Console.WriteLine();
             }
             else if (pres == 6) break;
+            else Console.WriteLine("Неверный команда");
         }
     }
     else if (comand.ToLower().Trim() == "employee")
@@ -389,7 +393,7 @@ while (true) {
                 employee.Adress = Console.ReadLine();
                 Console.Write("Введите Id отдел : ");
                 employee.DepartmentId = Convert.ToInt32(Console.ReadLine());
-                Console.Write("Введите  position [junior,midle,senior] : ");
+                Console.Write("Введите position [junior,midle,senior] : ");
                 employee.Position = Console.ReadLine();
                 var responce = employeeService.Update(employee);
                 Console.WriteLine(responce.Message);
@@ -404,6 +408,7 @@ while (true) {
                 Console.WriteLine();
             }
             else if (pres == 6) break;
+            else Console.WriteLine("Неверный команда");
         }
     }else Console.WriteLine("Неверный команда ");
 }
