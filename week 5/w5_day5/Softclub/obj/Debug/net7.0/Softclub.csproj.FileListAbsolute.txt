@@ -1,0 +1,14 @@
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\bin\Debug\net7.0\Softclub.exe
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\bin\Debug\net7.0\Softclub.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\bin\Debug\net7.0\Softclub.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\bin\Debug\net7.0\Softclub.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\bin\Debug\net7.0\Softclub.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\obj\Debug\net7.0\Softclub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\obj\Debug\net7.0\Softclub.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\obj\Debug\net7.0\Softclub.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\obj\Debug\net7.0\Softclub.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\obj\Debug\net7.0\Softclub.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\obj\Debug\net7.0\refint\Softclub.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\obj\Debug\net7.0\Softclub.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\obj\Debug\net7.0\Softclub.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_day5\Softclub\obj\Debug\net7.0\ref\Softclub.dll

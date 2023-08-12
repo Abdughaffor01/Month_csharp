@@ -33,12 +33,12 @@ public class StudentService : IBase<Student>
         var student = students.FirstOrDefault(x => x.GetStudentId() == entt.GetStudentId());
         if (student != null)
         {
-            student.SetFirstName(entt.getFirstName());
-            student.SetLastName(entt.getLastName());
-            student.SetCity(entt.GetCity());
-            student.SetStreet(entt.GetStreet());
-            student.SetEmail(entt.GetEmail());
-            student.SetMobile(entt.GetMobile());
+            student.FirstName=entt.FirstName;
+            student.LastName=entt.LastName;
+            student.City=entt.City;
+            student.Street=entt.Street;
+            student.Email=entt.Email;
+            student.Mobile=entt.Mobile;
             return new Response<Student>("Успешно изменено");
         }
         return new Response<Student>("Такого информация нету в базе");

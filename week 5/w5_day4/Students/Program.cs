@@ -16,11 +16,10 @@ while (true)
    string subjectname;
    int numofcredit;
    int courseID;
-   Console.WriteLine("Pres 1 add");
-   Console.WriteLine("Pres 2 getall");
-   Console.WriteLine("Pres 3 getById");
-   Console.WriteLine("Pres 4 update");
-   Console.WriteLine("Pres 5 delete");
+   Console.WriteLine("Pres 1 Course");
+   Console.WriteLine("Pres 2 Subject");
+   Console.WriteLine("Pres 3 Student");
+   Console.WriteLine("Pres 4 exit");
    Console.Write("Введите команду : ");
    int number = Convert.ToInt32(Console.ReadLine());
    if (number == 1)
@@ -31,7 +30,11 @@ while (true)
          Console.WriteLine("Pres 1 add course");
          Console.WriteLine("Pres 2 add student");
          Console.WriteLine("Pres 3 add subject");
-         Console.WriteLine("Pres 4 add exit");
+         Console.WriteLine("Pres 4 exit");
+         Console.WriteLine("Pres 1 add course");
+         Console.WriteLine("Pres 2 delete course");
+         Console.WriteLine("Pres 3 update course");
+         Console.WriteLine("Pres 4 getall course");
          Console.Write("Введите команду : ");
          Console.WriteLine();
          int number1 = Convert.ToInt32(Console.ReadLine());
@@ -231,7 +234,7 @@ while (true)
          numofcredit = Convert.ToInt32(Console.ReadLine());
          Console.Write("CourseId : ");
          courseID = Convert.ToInt32(Console.ReadLine());
-         Subject subject=new Subject(subjectname,numofcredit,courseID);
+         Subject subject = new Subject(subjectname, numofcredit, courseID);
          var responce = subjectService.Update(subject);
          if (responce != null)
          {
@@ -256,21 +259,21 @@ while (true)
       {
          Console.Write("Введите id cours : ");
          id = Convert.ToInt32(Console.ReadLine());
-         var responce=courseService.Remove(id);
+         var responce = courseService.Remove(id);
          Console.WriteLine(responce.Message);
       }
       else if (number1 == 2)
       {
          Console.Write("Введите id student : ");
          id = Convert.ToInt32(Console.ReadLine());
-         var responce=studentService.Remove(id);
+         var responce = studentService.Remove(id);
          Console.WriteLine(responce.Message);
       }
       else if (number1 == 3)
       {
          Console.Write("Введите id subject : ");
          id = Convert.ToInt32(Console.ReadLine());
-         var responce=subjectService.Remove(id);
+         var responce = subjectService.Remove(id);
          Console.WriteLine(responce.Message);
       }
       else if (number1 == 4) break;
