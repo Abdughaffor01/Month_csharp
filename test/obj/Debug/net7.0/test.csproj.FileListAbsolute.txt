@@ -1,4 +1,3 @@
-C:\Users\Zero\Desktop\Курси С#\test\obj\Debug\net7.0\test.csproj.AssemblyReference.cache
 C:\Users\Zero\Desktop\Курси С#\test\obj\Debug\net7.0\test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Zero\Desktop\Курси С#\test\obj\Debug\net7.0\test.AssemblyInfoInputs.cache
 C:\Users\Zero\Desktop\Курси С#\test\obj\Debug\net7.0\test.AssemblyInfo.cs

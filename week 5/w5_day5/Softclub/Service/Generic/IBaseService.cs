@@ -2,9 +2,9 @@ namespace Softclub.Service.Generic;
 
 public interface IBaseService<T>
 {
-   List<T> GetAll();
-   Response<T> GetById(int id);
-   Response<T> Add(T c);
-   Response<T> Remove(int id);
-   Response<T> Update(T c);
+    Task<List<T>> GetAll();
+    Task<Response<T>> GetById(int id);
+    Task<Response<T>> Add(T c);
+    Task<Response<T>> Remove(int id);
+    Task<Response<T>> Update(T c);
 }

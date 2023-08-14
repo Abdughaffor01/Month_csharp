@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3+G8GnzbAr1NIIxuOV04s2HWoSompRzKOfHBbOfSiSxOrsSrkHEPt3s8YnIUjg0WH8OjyHq8Gfh7QjbsQCPR0g==",
+  "dgSpecHash": "64fv+tyjVKVloEJgoT6NTsOqc61jdYm4TqpOPUsH/OJpjKhM21uuHd0ehxx1gkrKc33zvPPOspX5hqt8O0JqDg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Zero\\Desktop\\Курси С#\\test\\test.csproj",
+  "projectFilePath": "C:\\Users\\Zero\\Desktop\\Курси С#\\test\\test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

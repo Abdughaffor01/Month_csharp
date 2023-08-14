@@ -1,0 +1,14 @@
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\bin\Debug\net7.0\task3_MyList.exe
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\bin\Debug\net7.0\task3_MyList.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\bin\Debug\net7.0\task3_MyList.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\bin\Debug\net7.0\task3_MyList.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\bin\Debug\net7.0\task3_MyList.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\obj\Debug\net7.0\task3_MyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\obj\Debug\net7.0\task3_MyList.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\obj\Debug\net7.0\task3_MyList.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\obj\Debug\net7.0\task3_MyList.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\obj\Debug\net7.0\task3_MyList.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\obj\Debug\net7.0\refint\task3_MyList.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\obj\Debug\net7.0\task3_MyList.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\obj\Debug\net7.0\task3_MyList.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task3_MyList\obj\Debug\net7.0\ref\task3_MyList.dll

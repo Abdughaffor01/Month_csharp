@@ -1,0 +1,14 @@
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\bin\Debug\net7.0\task4_Drive.exe
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\bin\Debug\net7.0\task4_Drive.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\bin\Debug\net7.0\task4_Drive.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\bin\Debug\net7.0\task4_Drive.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\bin\Debug\net7.0\task4_Drive.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\obj\Debug\net7.0\task4_Drive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\obj\Debug\net7.0\task4_Drive.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\obj\Debug\net7.0\task4_Drive.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\obj\Debug\net7.0\task4_Drive.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\obj\Debug\net7.0\task4_Drive.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\obj\Debug\net7.0\refint\task4_Drive.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\obj\Debug\net7.0\task4_Drive.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\obj\Debug\net7.0\task4_Drive.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task4_Drive\obj\Debug\net7.0\ref\task4_Drive.dll

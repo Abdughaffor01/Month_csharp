@@ -1,0 +1,14 @@
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\bin\Debug\net7.0\task2_Point.exe
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\bin\Debug\net7.0\task2_Point.deps.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\bin\Debug\net7.0\task2_Point.runtimeconfig.json
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\bin\Debug\net7.0\task2_Point.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\bin\Debug\net7.0\task2_Point.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\obj\Debug\net7.0\task2_Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\obj\Debug\net7.0\task2_Point.AssemblyInfoInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\obj\Debug\net7.0\task2_Point.AssemblyInfo.cs
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\obj\Debug\net7.0\task2_Point.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\obj\Debug\net7.0\task2_Point.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\obj\Debug\net7.0\refint\task2_Point.dll
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\obj\Debug\net7.0\task2_Point.pdb
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\obj\Debug\net7.0\task2_Point.genruntimeconfig.cache
+C:\Users\Zero\Desktop\Курси С#\week 5\w5_exam5\task2_Point\obj\Debug\net7.0\ref\task2_Point.dll
